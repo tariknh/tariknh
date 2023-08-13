@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tariknh, self taught developer
 - 👀 I’m interested in full-stack and design
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Sveltekit
 - 📫 How to reach me: DM
 
 <!---
